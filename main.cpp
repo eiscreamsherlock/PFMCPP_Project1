@@ -116,13 +116,13 @@ ball.roll();
 //  action 3:    the ball breaks a window
 ball.breakWindow();
 //  9)
-//  Noun:        robot
-//  action 1:    the robot builds
-robot.build();
-//  action 2:    the robot cleans
-robot.clean();
-//  action 3:    the robot subjugates humanity
-robot.createTheMatrix();
+//  Noun:        orbital space laser
+//  action 1:    the orbital space laser moves
+orbitalSpaceLaser.move();
+//  action 2:    the orbital space laser aligns trajectory
+orbitalSpaceLaser.alignTrajectory();
+//  action 3:    the orbital space laser fires
+orbitalSpaceLaster.pewPew();
 //  10)
 //  Noun:        dragon
 //  action 1:    the dragon flies
