@@ -52,97 +52,98 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    the cat meows
+cat.meow();
+//  action 2:    the cat leaps
+cat.leap();
+//  action 3:    the cat plays jazz
+cat.playJazz();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        door
+//  action 1:    the door opens
+door.open();
+//  action 2:    the door closes
+door.close();
+//  action 3:    the door slams
+door.slam();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        flower
+//  action 1:    the flower grows
+flower.grow();
+//  action 2:    the flower blooms
+flower.bloom();
+//  action 3:    the flower withers
+flower.wither();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        hand
+//  action 1:    the hand clenches
+hand.clench();
+//  action 2:    the hand opens
+hand.open();
+//  action 3:    the hand claps
+hand.clap();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        phone
+//  action 1:    the phone rings
+phone.ring();
+//  action 2:    the phone catches fire
+phone.catchFire();
+//  action 3:    the phone connect to WiFi
+phone.connectToWifi();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        wind
+//  action 1:    the wind blows
+wind.blow();
+//  action 2:    the wind howls
+wind.howls();
+//  action 3:    the wind propels a craft
+wind.propel();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        computer
+//  action 1:    the computer computes
+computer.compute();
+//  action 2:    the computer crashes
+computer.crash();
+//  action 3:    the computer connects to internet 
+computer.connectToInternet();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        ball
+//  action 1:    the ball bounces
+ball.bounce();
+//  action 2:    the ball rolls
+ball.roll();
+//  action 3:    the ball breaks a window
+ball.breakWindow();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        orbital space laser
+//  action 1:    the orbital space laser moves
+orbitalSpaceLaser.move();
+//  action 2:    the orbital space laser aligns trajectory
+orbitalSpaceLaser.alignTrajectory();
+//  action 3:    the orbital space laser fires
+orbitalSpaceLaser.pewPew();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun:        dragon
+//  action 1:    the dragon flies
+dragon.fly();
+//  action 2:    the dragon sleeps
+dragon.sleep();
+//  action 3:    the dragon breathes fire
+dragon.breatheFire();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +151,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
