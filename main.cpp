@@ -122,7 +122,7 @@ orbitalSpaceLaser.move();
 //  action 2:    the orbital space laser aligns trajectory
 orbitalSpaceLaser.alignTrajectory();
 //  action 3:    the orbital space laser fires
-orbitalSpaceLaster.pewPew();
+orbitalSpaceLaser.pewPew();
 //  10)
 //  Noun:        dragon
 //  action 1:    the dragon flies
